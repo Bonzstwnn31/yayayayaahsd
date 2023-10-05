@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: gray;
+}
+#wrapper{
+    width: 720px;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+}
+#header{
+    width: 720px;
+    background-color: rgb(44, 62, 223);
+}
+#menu-utama li a{
+    color: white;
+    text-decoration: none;
+    margin-bottom:900px;
+}
+
+#header h2{
+    color:white;
+}
+
+#header ul{
+    margin-right: 230px;
+    margin-top: -50px;
+}
+#header ul li{
+    list-style: none;
+    float:right;
+    margin-left:20px;
+    margin-right: 20px;
+    
+}
+#header ul li a{
+    text-decoration: none;
+    color: rgb(255,255,255);
+}
+.contenhead button a{
+    text-decoration: none;
+    color:black;
+}
+.propil{
+    background-color: rgb(42, 14, 107);
+}
+.propil h2{
+    color: whitesmoke;
+}
+.propil p{
+    color:whitesmoke ;
+}
+.propil img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+}
